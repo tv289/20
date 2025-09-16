@@ -6951,10 +6951,69 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 https://epg.pw/stream/1e0fcfc4f18549722a9231c62a97daeb28dc0347372af159f9aa06cf1cbdee64.m3u8
 
-
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="Canal+ Sport HD" tvg-logo="https://sat-kom.co.uk/logos/167.png" group-title="Sporty",Canal+ Sport HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2315.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="Canal+ Sport 2 HD" tvg-logo="https://sat-kom.co.uk/logos/168.png" group-title="Sporty",Canal+ Sport 2 HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2316.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="Canal+ Sport 3 HD" tvg-logo="https://sat-kom.co.uk/logos/169.png" group-title="Sporty",Canal+ Sport 3 HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2317.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="Canal+ Sport 4 HD" tvg-logo="https://sat-kom.co.uk/logos/170.png" group-title="Sporty",Canal+ Sport 4 HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2318.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="CANAL+ Sport 5 HD" tvg-logo="https://sat-kom.co.uk/logos/172.png" group-title="Sporty",CANAL+ Sport 5 HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2321.ts
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport 1 HD" tvg-logo="https://sat-kom.co.uk/logos/144.png" group-title="Sporty",Eurosport 1 HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2319.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 HD" tvg-logo="https://sat-kom.co.uk/logos/145.png" group-title="Sporty",Eurosport 2 HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2320.ts
+#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1 HD" tvg-logo="https://sat-kom.co.uk/logos/147.png" group-title="Sporty",Eleven Sports 1 HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2311.ts
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="Eleven Sports 2 HD" tvg-logo="https://sat-kom.co.uk/logos/148.png" group-title="Sporty",Eleven Sports 2 HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2312.ts
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="Eleven Sports 3 HD" tvg-logo="https://sat-kom.co.uk/logos/149.png" group-title="Sporty",Eleven Sports 3 HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2313.ts
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4 HD" tvg-logo="https://sat-kom.co.uk/logos/150.png" group-title="Sporty",Eleven Sports 4 HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2314.ts
+#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="Extreme Sports HD" tvg-logo="https://sat-kom.co.uk/logos/176.png" group-title="Sporty",Extreme Sports HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2324.ts
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="Polsat Sport 1" tvg-logo="https://sat-kom.co.uk/logos/151.png" group-title="Sporty",Polsat Sport 1
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2327.ts
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="Polsat Sport 2" tvg-logo="https://sat-kom.co.uk/logos/152.png" group-title="Sporty",Polsat Sport 2
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2329.ts
+#EXTINF:-1 tvg-id="Polsat Sport 3" tvg-name="Polsat Sport 3" tvg-logo="" group-title="Sporty",Polsat Sport 3
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/7873.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="Polsat Sport Premium 1" tvg-logo="https://sat-kom.co.uk/logos/155.png" group-title="Sporty",Polsat Sport Premium 1
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2330.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="Polsat Sport Premium 2" tvg-logo="https://sat-kom.co.uk/logos/156.png" group-title="Sporty",Polsat Sport Premium 2
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2331.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="Polsat Sport Premium 3" tvg-logo="https://sat-kom.co.uk/logos/157.png" group-title="Viaplay/PPV",Polsat Sport Premium 3
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/7310.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="Polsat Sport Premium 4" tvg-logo="https://sat-kom.co.uk/logos/158.png" group-title="Viaplay/PPV",Polsat Sport Premium 4
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/7311.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="Polsat Sport Premium 5" tvg-logo="" group-title="Viaplay/PPV",Polsat Sport Premium 5
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/7312.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="Polsat Sport Premium 6" tvg-logo="" group-title="Viaplay/PPV",Polsat Sport Premium 6
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/7313.ts
+#EXTINF:-1 tvg-id="Polsat Sport Extra 1" tvg-name="Polsat Sport Extra 1" tvg-logo="" group-title="Sporty",Polsat Sport Extra 1
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/10134.ts
+#EXTINF:-1 tvg-id="Polsat Sport Extra 2" tvg-name="Polsat Sport Extra 2" tvg-logo="" group-title="Sporty",Polsat Sport Extra 2
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/10135.ts
+#EXTINF:-1 tvg-id="Polsat Sport Extra 3" tvg-name="Polsat Sport Extra 3" tvg-logo="" group-title="Sporty",Polsat Sport Extra 3
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/10136.ts
+#EXTINF:-1 tvg-id="Polsat Sport Extra 4" tvg-name="Polsat Sport Extra 4" tvg-logo="" group-title="Sporty",Polsat Sport Extra 4
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/10137.ts
+#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight HD" tvg-logo="https://sat-kom.co.uk/logos/154.png" group-title="Sporty",Polsat Sport Fight HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2326.ts
+#EXTINF:-1 tvg-id="Sportklub" tvg-name="Sportklub HD" tvg-logo="https://sat-kom.co.uk/logos/177.png" group-title="Sporty",Sportklub HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2322.ts
+#EXTINF:-1 tvg-id="FightBox" tvg-name="FightBOX HD" tvg-logo="https://sat-kom.co.uk/logos/179.png" group-title="Sporty",FightBOX HD
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/2323.ts
+#EXTINF:-1 tvg-id="FIGHTKLUB" tvg-name="FightKlub" tvg-logo="https://sat-kom.co.uk/logos/178.png" group-title="Sporty",FightKlub
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/7307.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Sporty Walki" tvg-logo="https://sat-kom.co.uk/logos/242.png" group-title="Viaplay/PPV",PPV-Sporty Walki
+https://vserver4.no-ip.org:8002/live/v8omjrOetH/1wPGKRnN1w/4869.ts
 
 ====================CUBMU=====================
-
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
