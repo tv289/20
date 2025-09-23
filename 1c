@@ -1,3 +1,212 @@
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [SPORTS INT] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox502.png" group-title="VIDIO-CHAMP",FOX Sports 502 AU
+http://gunslingertv.org:8080/live/K1uWWBmaxJ/Xa1TFucw91/123813.ts
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox503.png" group-title="VIDIO-CHAMP",Fox Sports 503 AU
+http://gunslingertv.org:8080/live/K1uWWBmaxJ/Xa1TFucw91/123814.ts
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox504.png" group-title="VIDIO-CHAMP",Fox Sports 504 AU
+http://gunslingertv.org:8080/live/K1uWWBmaxJ/Xa1TFucw91/123815.ts
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox505.png" group-title="VIDIO-CHAMP",Fox Sports 505 AU
+http://gunslingertv.org:8080/live/K1uWWBmaxJ/Xa1TFucw91/123816.ts
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox506.png" group-title="VIDIO-CHAMP",Fox Sports 506 AU
+http://gunslingertv.org:8080/live/K1uWWBmaxJ/Xa1TFucw91/123817.ts
+#EXTINF:-1 tvg-logo="https://file.garden/aEH73g2_nCZCUuwA/fox506.png" group-title="VIDIO-CHAMP",Fox Sports 507 AU
+http://gunslingertv.org:8080/live/K1uWWBmaxJ/Xa1TFucw91/123818.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SportStars1.id" tvg-name="Sportstars 1" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/sportstars.jpg?raw=true" group-title="VIDIO-CHAMP",SPORTSTARS
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165865
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SportStars2.id" tvg-name="Sportstars 2" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/sportstars2.jpg?raw=true" group-title="VIDIO-CHAMP",SPORTSTARS 2
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=114
+#EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars 3" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/sportstars3.jpg?raw=true" group-title="VIDIO-CHAMP",SPORTSTARS 3
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Sportstars4.id" tvg-name="Sportstars 4" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/sportstars4.jpg?raw=true" group-title="VIDIO-CHAMP",SPORTSTARS 4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/soccer.jpg?raw=true" group-title="VIDIO-CHAMP",SOCCER CHANNEL
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/spotv.jpg?raw=true" group-title="VIDIO-CHAMP",SPOTV
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+#http://103.179.182.117:6768/hls/15/15.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/spotv2.jpg?raw=true" group-title="VIDIO-CHAMP",SPOTV 2
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#http://103.179.182.117:6768/hls/86/86.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="beInSports1.id" tvg-name="beIN Sports" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports.jpg?raw=true" group-title="VIDIO-CHAMP",BEIN SPORTS 1
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165886
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="beIN Sports 2" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports2.jpg?raw=true" group-title="VIDIO-CHAMP",BEIN SPORTS 2
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165887
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="beINSports3.id" tvg-name="beIN Sports 3" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports3.jpg?raw=true" group-title="VIDIO-CHAMP",BEIN SPORTS 3
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165888
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="beINSports4.id" tvg-name="beIN Sports 4" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports4.jpg?raw=true" group-title="VIDIO-CHAMP",BEIN SPORTS 4
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165889
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="beINSports5.id" tvg-name="beIN Sports 5" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/beinsports5.jpg?raw=true" group-title="VIDIO-CHAMP",BEIN SPORTS 5
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1165890
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions1.jpg?raw=true" group-title="VIDIO-CHAMP",CHAMPIONS TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+#http://103.179.182.117:6768/hls/66/66.m3u8
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions2.jpg?raw=true" group-title="VIDIO-CHAMP",CHAMPIONS TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17939&type=dash
+#http://103.179.182.117:6768/hls/88/88.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions3.jpg?raw=true" group-title="VIDIO-CHAMP",CHAMPIONS TV 3
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=73a0064770d830c21e7a57fcd3a200ad:7d8d557469f968b10bafb418d750faed
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions5.jpg?raw=true" group-title="VIDIO-CHAMP",CHAMPIONS TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
+#http://103.179.182.117:6768/hls/21/21.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions6.jpg?raw=true" group-title="VIDIO-CHAMP",CHAMPIONS TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
+https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
+#http://103.179.182.117:6768/hls/94/94.m3u8
+
+#EXTINF:-1 tvg-name="SPORTS : ASTRO CRICKET" tvg-logo="http://onlytimewilltell.xyz:2086/images/d026d4b7a8a45bbb05249ba5698dc37b.png" group-title="VIDIO-CHAMP",SPORTS : ASTRO CRICKET
+http://mains.services/live/pmf0423/1aku0jt%40/6d39e773-61aa-420a-a492-4c2ae8ddc268.ts
+#EXTINF:-1 tvg-name="SPORTS : ASTRO SUPERSPORT 1" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="VIDIO-CHAMP",SPORTS : ASTRO SUPERSPORT 1
+http://mains.services/live/pmf0423/1aku0jt%40/908d1263-42e6-4d4d-becb-ff4c3f2a0e2d.ts
+#EXTINF:-1 tvg-name="SPORTS : ASTRO SUPERSPORT 2" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="VIDIO-CHAMP",SPORTS : ASTRO SUPERSPORT 2
+http://mains.services/live/pmf0423/1aku0jt%40/789d04b3-af43-4185-a849-a4cbcd123660.ts
+#EXTINF:-1 tvg-name="SPORTS : ASTRO SUPERSPORT 3" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="VIDIO-CHAMP",SPORTS : ASTRO SUPERSPORT 3
+http://mains.services/live/pmf0423/1aku0jt%40/a2688b68-2f5e-4891-a26f-a61d587aae17.ts
+#EXTINF:-1 tvg-name="SPORTS : ASTRO SUPERSPORT 4" tvg-logo="http://onlytimewilltell.xyz:2086/images/c7e3d2cadb39c40437c820ac72b58d18.png" group-title="VIDIO-CHAMP",SPORTS : ASTRO SUPERSPORT 4
+http://mains.services/live/pmf0423/1aku0jt%40/402826aa-5119-4254-b520-13c53cb5fa4a.ts
+
+#EXTINF:-1 tvg-id="dazn1.mv" tvg-name="DAZN 1" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="VIDIO-CHAMP",DAZN 1
+https://maldivesn.net/hilaytv/dazn1
+#EXTINF:-1 tvg-id="dazn2sp.mv" tvg-name="DAZN 2" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="VIDIO-CHAMP",DAZN 2
+https://maldivesn.net/hilaytv/dazn2
+#EXTINF:-1 tvg-id="dazn3.mv" tvg-name="DAZN 3" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="VIDIO-CHAMP",DAZN 3
+https://maldivesn.net/hilaytv/dazn3
+#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 4" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="VIDIO-CHAMP",DAZN 4
+https://maldivesn.net/hilaytv/dazn4
+#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 5" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="VIDIO-CHAMP",DAZN 5
+https://maldivesn.net/hilaytv/dazn5
+#EXTINF:-1 tvg-id="dazn4.mv" tvg-name="DAZN 6" tvg-logo="https://8upload.com/image/68539732583c3/daznhilay.png" group-title="VIDIO-CHAMP",DAZN 6
+https://maldivesn.net/hilaytv/dazn6
+
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="!^Channels",No name
 <html dir='ltr' lang='id'>
@@ -5094,41 +5303,8 @@ window.location = "";
 #EXTINF:0 tvg-id="ext" group-title="!^Channels",No name
 <script>
 #EXTINF:0 tvg-id="ext" group-title="!^Channels",No name
-====== INFO ======
 
-#EXTINF:0 tvg-id="ext" group-title="!^INFO",! 01 TV GEULIS PISAN
-https://bit.ly/42Mt7Os
-#EXTINF:0 tvg-id="avi" group-title="!^INFO",! 02 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^INFO",! 03 JANGAN DIBUKA
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
-#EXTINF:0 tvg-id="ext" group-title="!^INFO",JOM NGAJI
-https://827f31c3f2824c0c95c7a5190e96e284.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd
-#EXTINF:0 tvg-id="ext" group-title="!^INFO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HOLY QURAN
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UC_KYVOU2lpXpuSsQ5JI6xvg|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^INFO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",FATIMAH SHOLAWAT
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCNBC6thzP9nlQjYPDBGTmQw|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^INFO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",DZIKIR CHANNEL
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCBN9NUto3-HXOh8YlQRjN6g|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^INFO" user-agent="Intraplay5",JUST FOR LAUGHS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus|User-agent=Intraplay5
-#EXTINF:0 tvg-id="ext" group-title="!^INFO",FAIL ARMY
-https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/fail%20army.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^INFO",MR. BEAN CLASSIC
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^INFO",TOM & JERRY
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^INFO",UPIN & IPIN
-https://mantul.biz.id:443/inetwork/gayanet12/19132.ts
-#EXTINF:0 tvg-id="avi" group-title="!^INFO",DORAEMON
-https://link.zozotv.xyz:443/movie/usez37/zxy921/1285.mp4
-#EXTINF:0 tvg-id="avi" group-title="!^INFO",WARKOP DKI
-https://dn720407.ca.archive.org/0/items/warkop-dki-mana-tahan/Warkop%20DKI%20-%20Mana%20Tahan.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="!^LIVE EVENT",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^LIVE EVENT",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^LIVE EVENT",TNT SPORTS
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 #EXTINF:0 tvg-id="ext" group-title="!^LIVE EVENT",SPOTV PH
@@ -5242,790 +5418,6 @@ https://stream.365kubx.net/hls/ch11.m3u8
 #EXTINF:0 tvg-id="ext" group-title="!^FIFA CLUB" user-agent="Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36",UZIVO TV
 ====== WAYANGAN ======|User-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6998.108 Mobile Safari/537.36
 
-#EXTINF:0 tvg-id="avi" group-title="!^WAYANGAN",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^WAYANGAN",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
-#EXTINF:0 tvg-id="ext" group-title="!^WAYANGAN" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" referer="https://www.visionplus.id/",HANACARAKA TV V+
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
-#EXTINF:0 tvg-id="ext" group-title="!^WAYANGAN",DHOHO TV
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^WAYANGAN",SAKTI TV
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^WAYANGAN",ABTV BLITAR
-https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^WAYANGAN" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",NASIONAL TV
-https://tv.nasionaltv.com/ntvlive/index.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^WAYANGAN",JITV
-https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^WAYANGAN",MADU TV
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^WAYANGAN",CARUBAN TV
-https://stream.carubantv.id/hls/0/stream.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="!^RELIGI",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^RELIGI",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0",LIVE MAKKAH
-http://dvdv.org:2082/001562/001562/39652|User-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",LIVE MAKKAH 1
-http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",MAKKAH TV
-https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0",LIVE MADINAH
-https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8|User-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",LIVE MADINAH 1
-http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",DEI KIDS TV
-https://e.siar.us/live/deikidstv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",KHAZANAH TVT
-https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",TV MUI
-https://mui.siar.us/mui/live/playlist.m3u8
-#EXTINF:0 tvg-id="TV10.se" group-title="!^RELIGI",TV 10 HD
-https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",TV9 HD
-https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" referer="https://visionplus.id",TVMU HD V+
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd|Referer=https://visionplus.id
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",TVMU HD
-https://e.siar.us/live/tvmu.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",RODJA TV
-https://rodjatv.com/rodjatv/live_480p1128kbs/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1",RODJA TV 1
-https://rodjatv.com/rodjatv/live.m3u8|User-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36",RODJA TV 2
-http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=RodjaTV|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",BRTV HD
-https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",AL WAFA TARIM
-https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",MQTV HD
-https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",INSPIRA TV
-https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",WESAL TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",MTA HD
-https://cdn10jtedge.indihometv.com/atm/DASH/mtatv/manifest.mpd|User-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",ARTVISI AUDIO
-https://streaming.yufid.com/hls/artvisi.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",MADANI TV
-https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",SALING SAPA TV
-https://play.accolamedia.id/accola/salingsapatv-rtmp.stream_360p/playlist.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",TV SUNNAH IMT
-https://flv.intechmedia.net/live/ch16.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",ASHIIL TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",AL IMAN TV
-https://tv.aliman.id/aliman/live.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",ASTRO AL HIJRAH
-http://iptv.kilas7.com:80/kaukia/asdfrewq/33|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",LIVE MAKKAH IMT
-https://flv.intechmedia.net/live/ch14.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",LIVE MADINAH IMT
-https://flv.intechmedia.net/live/ch13.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",MQH TV IMT
-https://flv.intechmedia.net/live/ch34.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",ABY TV IMT
-https://flv.intechmedia.net/live/ch139.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",DEI KIDS TV IMT
-https://flv.intechmedia.net/live/ch29.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",RINJANI TV IMT
-https://flv.intechmedia.net/live/ch32.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",PALIKO TV IMT
-https://flv.intechmedia.net/live/ch31.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",WALAD TV IMT
-https://flv.intechmedia.net/live/ch30.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",INSAN TV IMT
-https://flv.intechmedia.net/live/ch1.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",ASHIIL TV IMT
-https://flv.intechmedia.net/live/ch2.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Linux; Android 4.0.4; Sky Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36",SURAU TV IMT
-https://flv.intechmedia.net/live/ch3.m3u8|User-agent=Mozilla/5.0 (Linux; Android 4.0.4; Sky Build/IMM76D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",AHSAN TV IMT
-https://flv.intechmedia.net/live/ch4.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",MUADZ TV HD IMT
-https://flv.intechmedia.net/live/ch5.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",HIJRAH TV IMT
-https://flv.intechmedia.net/live/ch8.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="YouTV/1.8.25-prod.release+64f8c47a (Linux;Android 9) ExoPlayerLib/2.12.3",AL IMAN TV IMT
-https://flv.intechmedia.net/live/ch9.m3u8|User-agent=YouTV/1.8.25-prod.release+64f8c47a (Linux;Android 9) ExoPlayerLib/2.12.3
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",NIAGA TV IMT
-https://flv.intechmedia.net/live/ch10.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",PULDAPII TV IMT
-https://flv.intechmedia.net/live/ch15.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",BIN BAZ TV IMT
-https://flv.intechmedia.net/live/ch22.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",MEDS TV IMT
-https://flv.intechmedia.net/live/ch23.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",MGI TV IMT
-https://flv.intechmedia.net/live/ch25.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",IZZAH TV IMT
-https://flv.intechmedia.net/live/ch28.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",SJP TV IMT
-https://flv.intechmedia.net/live/ch17.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",NAAJIYA TV IMT
-https://flv.intechmedia.net/live/ch7.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",SALAM TV IMT
-https://flv.intechmedia.net/live/ch12.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",AL-FURQON TV IMT
-https://flv.intechmedia.net/live/ch24.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",WESAL TV IMT
-https://flv.intechmedia.net/live/ch33.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="SkyNwsArabia.uk" group-title="!^RELIGI",SKY NEWS ARABIA
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",AL ARABY TV
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",ASHARQ NEWS
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",ALJAEERA MUBASHER
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",ALHURRA TV
-https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",BAHRAIN QURAN
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",KANI QURAN HD
-https://ncdn.telewebion.com/quran/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",BANGAWAZ TV
-http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",MIHRAB TV
-http://baskhd.ddns.net:40/live/MihrabTV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",SADA TV
-http://baskhd.ddns.net:40/live/sadatv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",PUJA TV ACEH OFF
-https://v6.siar.us/pujatv/live/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",ADI TV OFF
-https://v2.siar.us/aditv/livestream/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (X11; Linux x86_64)",BINA MADANI OFF
-https://flv.intechmedia.net/live/ch20.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",SJP TV YT
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCoPO7QD-HlBn7B02OMOsJJQ
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",PALIKO TV YT
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCh1MTNbdd7X9Uwna7WabR2A|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",MGI TV YT
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCOM0_JMqjaPDeta_ObATZ0w
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI",NAAJIYA TV YT
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCO4twEoisQIhNFqU1Sjyr0Q
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",AL-FURQON TV YT
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UC2FIGD4FVOSWL61jz_yd3HA|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-
-#EXTINF:0 tvg-id="ext" group-title="!^RELIGI " user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" referer="https://visionplus.id",MNC MUSLIM V+
-https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd|Referer=https://visionplus.id
-
-#EXTINF:0 tvg-id="ext" group-title="!^ RELIGI" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" referer="https://visionplus.id",TAWAF TV V+
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/7819c09ece974a7582eed4770bf60e65/index.mpd|Referer=https://visionplus.id
-#EXTINF:0 tvg-id="ext" group-title="!^ RELIGI" user-agent="IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" referer="https://www.indihometv.com/",TAWAF TV INDI
-https://cdn10jtedge.indihometv.com/atm/DASH/tawaftv/manifest.mpd|Referer=https://www.indihometv.com/
-
-#EXTINF:0 tvg-id="avi" group-title="!^RADIO",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^RADIO",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^RADIO",RADIO DZIKIR PAGI
-https://ia800309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirPagi.mp3
-#EXTINF:0 tvg-id="avi" group-title="!^RADIO",RADIO DZIKIR PETANG
-https://ia600309.us.archive.org/25/items/DzikirPagiPetangRadioRodja/DzikirSore_hiss_reduce.mp3
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO MUSLIM JOGJA
-https://streaming.radiomuslim.com/;?1736409962231
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO RODJA
-https://radioislamindonesia.com/rodja-low.mp3?_=1
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO RODJA #1
-https://live2.radiorodja.com/rodja-low.mp3?_=3
-#EXTINF:0 tvg-id="avi" group-title="!^RADIO",RADIO KITA CIREBON
-https://sunnah.radio.yufid.com/;stream.mp3
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO RUQYAH
-https://stream-40.zeno.fm/pz72fq579f0uv?zs=Ul5sqtHcSt2egYs9SrjFzw
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO AL-QUR'AN INDO
-https://stream-47.zeno.fm/agv8w1xp1uhvv?zs=1ePJ9DYIT6KWrd2_cc08sg
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO DEI FM
-https://live.radiodeifm.com/8118/stream;?1736405447503
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO HIJRAH FM
-https://streaming.hijrahfm.com/;?1736409831439
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO AL IMAN
-https://radioislamindonesia.com/aliman.mp3?_=2
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO TARBIYAH SUNNAH
-https://radioislamindonesia.com/tarbiyah.mp3?_=1
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO HANG
-http://185.47.62.52:8000/
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO SYI'AR TAUHID ACEH
-http://45.64.97.82:8260/;
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO TAFSIR AL-QURAN
-http://206.72.199.179:9992/
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO KSA SUNNAH
-https://radiosunna.radioca.st/stream
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO DAI
-http://pu.klikhost.com:7204/stream?1672828237600
-#EXTINF:0 tvg-id="avi" group-title="!^RADIO",RADIO SAHABAT
-https://radioislamindonesia.com/shahabatmuslim.mp3
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO ARRISALAH
-https://pu.klikhost.com/proxy/dasa/stream
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO INSANI
-https://insanifm.radio.yufid.com/;?1736397847718
-#EXTINF:0 tvg-id="avi" group-title="!^RADIO",RADIO HIDAYAH
-https://radioislamindonesia.com/radiohidayah.mp3
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO AL-HIKMAH
-https://live1.indostreamserver.com:8120/;?1736399531113
-#EXTINF:0 tvg-id="ext" group-title="!^RADIO",RADIO RJFM
-https://a4.siar.us:8230/rjfm
-
-#EXTINF:0 tvg-id="avi" group-title="!^ARAB",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^ARAB",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",RAJEEN TV
-https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",JORDAN TV
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",ROYA TV
-https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",AL-IMAN TV
-https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",AL-MAYADEEN TV
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",AL-JAZEERA ARAB
-http://live-hls-web-aja.getaj.net/AJA/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",AL-JAZEERA MUBASHER
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:0 tvg-id="Al-JazeeraEnglish.net" group-title="!^ARAB",AL-JAZEERA ENGLISH
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",QATAR 1
-https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",QATAR 2
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",AL-ARABIYA TV
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",AL-ARABY 1
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",AL-ARABY 2
-http://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",MBC MASR TV
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",MBC MASR 2 TV
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?HasBahCa
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",MBC IRAQ
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="!^ARAB",MBC BOLLYWOOD
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?HasBahCadec9f82/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",MBC GOBOX
-https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="!^ARAB",MBC DRAMA
-https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",MBC+ DRAMA
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?HasBahCa
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",MBC 1 TV
-https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",MBC 1 TV HD
-https://shls-live-ak.akamaized.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",MBC 3 TV
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",MBC 4 TV
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?HasBahCa
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",MBC 5 TV
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",TEN TV
-https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",DW ARABIYA
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",BAYNOUNAH TV
-https://baynounah.cdn.mangomolo.com/btv/smil:btv.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ZeeAflam.net" group-title="!^ARAB",ZEE AFLAM
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",ZEE ALWAN TV
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",TRT SYRIA
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",SHARJAH TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",SHARJAH SPORT
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",ATFALWAMAHEB
-https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",NOGOUM TV
-https://nogoumtv.nrpstream.com/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",DIJLAH TV
-https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",AL-ISTIQAMA TV
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",ALERTH ALNABAWI
-http://82.212.74.2:8000/live/7307.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",DUBAI SPORT 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",DUBAI SPORT 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",SHARQIYA TV
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",SPACETOON
-http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",SPACETOON 1
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",SPACETOON HD
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",RT ARABIC
-https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",OMAN LIVE
-https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",OMAN SPORT
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",OMAN TV
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",OMAN CULTURAL
-https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",ALHADATH TV
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",YEMEN SHABAB
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:0 tvg-id="BahrainTV.net" group-title="!^ARAB",BAHRAIN TV
-https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",BAHRAIN INTERNATIONAL
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",BAHRAIN QURAAN
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",BAHRAIN SPORT 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",BAHRAIN SPORT 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",SKY NEWS ARAB
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",ASHARQ NEWS
-https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",ALWOUSTA TV
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",WANASAH TV
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",HALA TV OFF
-https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ARAB",TAHA TV OFF
-https://media2.livaat.com/TAHA-TV/index.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="!^ISLAM WORLD",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^ISLAM WORLD",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",AFRICA TV 2
-http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",AFRICA TV 3
-http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",AHL-ALQURAN TV
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",AL-AIMMA TV
-http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",AL FAYDA TV
-https://helga.iptv2022.com/sh/AL_AYDA_TV_DAKAR/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",AL HAQIQA
-https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",AL HAYAT TV
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",ALIMAN TV
-https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",AL-JAWADAIN TV
-https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",AL-ZAHRA TV TURKIC
-https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",ALERTH ALNABAWI
-http://82.212.74.2:8000/live/7307.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",ALFATH SONNAH TV
-https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",ALFATH TV
-https://alfat7-q.com:5443/LiveApp/streams/515112551489055772942045.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",ALISTIQAMA TV
-https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",ALQURAN
-https://ktvlive.online/stream/hls/ch1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",BAYYINAT TV
-https://nl2.livekadeh.com/hls2/Bayyinat.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",BEITOLABBAS TV
-https://live.beitolabbas.tv/live/beitolabbastv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",DIYAR TV
-https://live.artidijitalmedya.com/artidijital_diyartv/diyartv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",DOST TV
-https://dost.stream.emsal.im/tv/live.m3u8
-#EXTINF:0 tvg-id="EmanChannel.uk" group-title="!^ISLAM WORLD",EMAN CHANNEL
-https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",ESLAH TV
-https://eslahtvhls.wns.live/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",HILAAL TV
-https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",HUDA TV
-https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
-#EXTINF:0 tvg-id="xuzur-tv" group-title="!^ISLAM WORLD",ХУЗУР ТВ
-https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",IBN TV
-http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",IBN TV AFRICA
-http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",IMAM ASR TV
-https://iptv.imamasrtv.com/asrfa/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",IMAM HUSSEIN TV 1
-https://live.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",IMAM HUSSEIN TV 2
-https://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",IMAM HUSSEIN TV 3
-https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",IMAM HUSSEIN TV 4
-https://live.imamhossaintv.com/live/ih4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",KTV ETHRAA
-https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",КАББАЛА ТВ
-https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",KAIF TV
-http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MISA TV
-https://vid4.misatv.ro:5050/MSTV/romanian/playlist.m3u8
-#EXTINF:0 tvg-id="MTA1World.uk" group-title="!^ISLAM WORLD",MTA1 WORLD
-https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MTA2 EUROPE
-https://chlivemta1.akamaized.net/hls/live/2008145/mta2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MTA3 AL-ARABIA
-https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MTA4 AFRICA
-https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MTA5 AFRICA
-https://chlivemta.akamaized.net/hls/live/2010555/mtaafrica2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MTA6 ASIA
-https://livemtaasia.akamaized.net/hls/live/2039224/mta6asia/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MTA7 ASIA
-https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MTA8 AMERICA
-https://chlivemta.akamaized.net/hls/live/2016718/mta8/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MADANI CHANNEL BANGLA
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MADANI CHANNEL ENGLISH
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MADANI CHANNEL URDU
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MARJAEYAT TV ARABIC
-https://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MARJAEYAT TV ENGLISH
-https://livefa.marjaeyattv.com/mtv_en/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MARJAEYAT TV PERSIAN
-https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MERCY TV
-https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",MUNARA TV
-https://ythls.armelin.one/channel/UC4tTvzqFKK2Dpfp-qP47b1w.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",NESIHA TV
-https://ffs3.gulfsat.com/Nesiha-TV/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",NOUR TV
-https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",SADA E-HAQ TV
-https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",SHARJAH TV
-https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",TV MANÁ BRASIL
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",VELAYAT TV
-https://nl.livekadeh.com/hls2/velayattv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^ISLAM WORLD",ZAINABIA CHANNEL
-https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="!^YTOFF",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^YTOFF",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",LIVE MAKKAH OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",LIVE MAKKAH OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",LIVE MADINAH OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCROKYPep-UuODNwyipe6JMw
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",LIVE MADINAH OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCROKYPep-UuODNwyipe6JMw
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",TARBIYAH SUNNAH OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCM73P3XvOfj0HjC97KKYW5g
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",TARBIYAH SUNNAH OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCM73P3XvOfj0HjC97KKYW5g
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",UFA TV HD OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCSfNcvSwqOfA33QYkzZfB-g
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",UFA TV HD OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCSfNcvSwqOfA33QYkzZfB-g
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",KHB OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCJHC3VbFsp7kJ2NxPGltwiw
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",KHB OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCJHC3VbFsp7kJ2NxPGltwiw
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",GAZWAH TV OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCiTK5pzTj6BMIO14YYLA_jA
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",GAZWAH TV OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCiTK5pzTj6BMIO14YYLA_jA
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF" user-agent="Mozilla/5.0",SRB OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3_QdDQnRVRDJzq56JTO_Zw|User-agent=Mozilla/5.0
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",SRB OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UC3_QdDQnRVRDJzq56JTO_Zw
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",MARHABAN TV OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UC7ijSJ_SyRqg_MqoGedoZTA
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",MARHABAN TV OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UC7ijSJ_SyRqg_MqoGedoZTA
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF" user-agent="Mozilla/5.0 (X11; Linux x86_64)",RASYAAD TV OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCotIkyDFzztbSm21GNGsK9w|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",RASYAAD TV OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCotIkyDFzztbSm21GNGsK9w
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",MEDS TV OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCem4zrffr93cp-o8cOPDhdQ
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",MEDS TV OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCem4zrffr93cp-o8cOPDhdQ
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",MTA HD OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCIrj7gqiu8uUfgMitYFzkNg
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",MTA HD OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCIrj7gqiu8uUfgMitYFzkNg
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",MTA INTERNATIONAL OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCW4QTka08QOHRNxKcJLEuUA
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",MTA INTERNATIONAL OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCW4QTka08QOHRNxKcJLEuUA
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",LAFADZ DOA OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCN2ySyRgxARVmENnOZ70rbg
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",LAFADZ DOA OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UCN2ySyRgxARVmENnOZ70rbg
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",SEYEGAN TV OFF
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UC3TZXKcQ64uCtFWksEfIw0w
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",SEYEGAN TV OFFB
-https://playlist.x10.mx/youtube/play.m3u8?id=UC3TZXKcQ64uCtFWksEfIw0w
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",USTADZ ASHAR IDRUS OFF
-https://playlist.x10.mx/youtube/play.m3u8?id=UC-eO7wPzP75WCJCh-LT5P3Q
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",SHOLAWAT SYIFA OFF
-https://playlist.x10.mx/youtube/play.m3u8?id=UCAqknDgTAxUnnc3i1pA-4ig
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",MUROTTAL MERDU OFF
-https://playlist.x10.mx/youtube/play.m3u8?id=UCfPDhOTpakcKIGPfv1Ui7GA
-#EXTINF:0 tvg-id="ext" group-title="!^YTOFF",JUZ 30 MERDU OFF
-https://playlist.x10.mx/youtube/play.m3u8?id=UCa6_qTUZrrJH1Y1ZMX4whTg
-
-#EXTINF:0 tvg-id="avi" group-title="!^DAERAH",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^DAERAH",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" referer="https://www.visionplus.id/",HANACARAKA TV V+
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd|Referer=https://www.visionplus.id/
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" referer="http://dens.tv",JOWO CHANNEL DENS
-https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo|Referer=http://dens.tv
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",JTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd|User-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",SINPO TV
-https://siasia-berjuang-hls.bintangstream513.workers.dev/stream.m3u8?id=19046&type=hls|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3",PAL TV IMT
-https://flv.intechmedia.net/live/ch18.m3u8|User-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",JITV
-https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",CARUBAN TV
-https://stream.carubantv.id/hls/0/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",ABTV BLITAR
-https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",MADU TV
-https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",TV TABALONG
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w430128046.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",PORTALOKA TV YT
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UClZqW13auCSxazPSlqbn8ww
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3",HAYAT TV IMT
-https://flv.intechmedia.net/live/ch60.m3u8|User-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",SURABAYA TV
-https://e.siar.us/live/surabayatv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",JAKTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd|User-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",BANDUNG TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",PON TV
-https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/chunklist_w1606515708.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",KALTARA TV
-https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",BANTEN TV
-https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",BANJAR TV
-https://banjartv.siar.us/banjartv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",SEMARANG TV
-http://116.254.112.74:80/hls/cakralive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="Mozilla/5.0 (X11; Linux x86_64)",BETV IMT
-https://flv.intechmedia.net/live/ch58.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" referer="http://www.dens.tv/",ELSHINTA TV
-http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8|Referer=http://www.dens.tv/
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",TATV
-https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="Mozilla/5.0 (X11; Linux x86_64)",GARUDA TV
-https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",JAWA POS TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",BUNGO TV
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",SANGAJI TV
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",AKTV
-https://e.siar.us/live/aktv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",DUTA TV
-https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",BMS TV
-https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",DHAMMA TV
-https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",DHOHO TV
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",SAKTI TV
-https://saktitv.siar.us/saktitv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="Mozilla/5.0 (X11; Linux x86_64)",RB TV IMT
-https://flv.intechmedia.net/live/ch59.m3u8|User-agent=Mozilla/5.0 (X11; Linux x86_64)
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",RCTV
-https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",SAMPIT TV
-https://e.siar.us/live/sampit-tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",TVKU
-https://tvku.tv/hlsstream/hls/live.m3u8
-#EXTINF:0 tvg-id="PrimaTV.cz" group-title="!^DAERAH",PRIMA TV
-https://primatv.siar.us/primatv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",JOGJA TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",RADAR LAMPUNG TV
-http://103.140.188.211:1935/radarlampungtv/myStream/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",MITRA TV LAMPUNG
-https://5bf7b725107e5.streamlock.net/mitratv-1/mitratv-1/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",DTVI
-https://e.siar.us/live/dtvi.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",TV DESA
-https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",NASIONAL TV
-https://tv.nasionaltv.com/ntvlive/index.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="JurnalTV.ro" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",JURNAL TV
-https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",KILISUCI TV
-https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",AREK TV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3",JAYA TV IMT
-https://flv.intechmedia.net/live/ch52.m3u8|User-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",PKTV
-https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",MGS TV
-https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",BALIKPAPAN TV
-https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",HUMA BETANG TV
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",SALIRA TV
-https://rocket-tv.online/redtube/randomyt.m3u8?id=UCP7Od3VAowN6oVaCL0K3Ytg
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",JAMBI TV
-https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",JEK TV
-http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",RADAR TV TASIKMALAYA
-https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",UBTV
-https://63b2dc7196c38.streamlock.net/UBTV/_definst_/myStream/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" referer="https://visionplus.id",BALI TV V+
-https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd|Referer=https://visionplus.id
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",BATAM TV
-http://63b2dc7196c38.streamlock.net:1935/ch5/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="KTV.uk" group-title="!^DAERAH" user-agent="Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2",KTV
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/Ktivi.m3u8|User-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",RIAU TV
-https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",AYU TV
-https://rtmp.tvcctube.com:8443/hls/4yuTVCC.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",PADANG TV
-https://video-weaver.hkg06.hls.ttvnw.net/v1/playlist/CvIFCv6DLhOOiUn3lpXwsRYhh1acy2W5hAQwYoINVQOnKAbn9KSiz6lNOqsl7gytS3M_kntWV2_K12wuwUIflVVVTJALZvd61AOb8Iu0VONFVW6Fu8uyTxCXEbqaF7JHHNxuHyWEol3HWG7rYMSpQhzcpmz9IIyukXYpqWXbbJl_ax1_ihNXEI3Ka38JXXuwY-yDwqtv09MY6xE7k344BEHiUeO0wj3z0C_3BQuPVmKJZpLnICmP12Fh9eijDLXs0xaLwrXbKLjx-ku-CR7YH2G15GDCt6rPIcNyn7tY6783vc0_L73E0VWg4F4W0uWsnZ9TAclO9Rs03eCEMKccidCP9uGWYYijtbTSGyh0kdT3obWwTzQxkpKRSmLk6DPaXKO97jw6Klo6ZpzwxIjDeOmhixd_Mt0XvbBzM81NBtsHXad3H6qhYEcDTRe3VZe4AYeoAqmXQYK6mYdlerGetKVHXM4jjmyWYVz3PSDpGshEzxS6dRHTYyxgVO5yLWFWmnzRiFrTh64BXYKv3aatRhDwWx6kpVeB-FeBMlQ3SPr7402HwhACvRxpd8W96-0AEUJkkzhEia5mPit9nekF0j8Zod2TaBSnbMg8FtgIEyY7dgdVMsUP4YTQu_K0QgeBIUwmuR0zSSZcU_AQ2COQcqFOvYs-a434UJcplPiKxadUzjPhg1ToAuqqLGypGQ-R1KCboZ9BZJuCFQ8SUkHdHjCYMoOD5BHxRF7aKoKC4O9tPHieHxU_R4frflvtAeL7CZCTaZglUva8RfqDwq23n-PmljgIe2ZHjU3JXDqK4BtWlQrzPaQADIGuf64ulMGvN2Uey2v6RLeT9wqWNG8pZSr7VDrAQkdU5UsS6M3Z2T_Oh1WgOEFebtrA8FO20vALK4syinjcN6rruITifUMGPym9cos0T1HJOIh__dOFzv1bttNdv55k-MPoC1y117BrHVTdGDw525xZJvak_Gqsttm_zDmAzsUcZVMLoH7C47Azg683CBoM1ZdihZrck0NmPhZoIAEqCXVzLXdlc3QtMjCvCw.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",TIMOR TV
-https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",PJTV
-https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",SIMPANG 5 TV
-https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",SMTV
-http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",USMTV
-https://63b2dc7196c38.streamlock.net:1937/usmtv/myStream/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",NATUNA TV
-https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",SABANTEN TV
-https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",BUKITTINGGI TV
-https://63b2dc7196c38.streamlock.net:1937/pandaisikek/myStream/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",ATAMBUA TV
-https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",KAWANUA TV
-https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",MIMIKA TV
-https://63b2dc7196c38.streamlock.net:1937/sultratv/myStream/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH" user-agent="OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1",FICOM CHANNEL
-https://v3.siar.us/ficomchannel/live/playlist.m3u8|User-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",TEGAR TV LAMPUNG OFF
-http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^DAERAH",BETAWI TV OFF
-https://sg1.agromegamedia.com/memfs/5d2d6713-16db-45f9-86b6-5693356fa578.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="!^TVRI",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^TVRI",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI NASIONAL
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI JAKARTA
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI WORLD
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI SPORT HD
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI AMBON
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI BALI
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI BANGKA BELITUNG
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI BENGKULU
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI GORONTALO
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI JAWA BARAT
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI JAMBI
-https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI JAWA TENGAH
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI JAWA TIMUR
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI KALIMANTAN BARAT
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI KALIMANTAN SELATAN
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI KALIMANTAN TENGAH
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI KALIMANTAN TIMUR
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI LAMPUNG
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI ACEH
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI NTB
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI NTT
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI PAPUA
-https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI RIAU
-https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI SULAWESI BARAT
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI SULAWESI SELATAN
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI SULAWESI TENGAH
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI SULAWESI TENGGARA
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI SULAWESI UTARA
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI SUMATRA BARAT
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI SUMATRA SELATAN
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI SUMATRA UTARA
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI YOGYAKARTA
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
-#EXTINF:0 tvg-id="ext" group-title="!^TVRI",TVRI PAPUA BARAT
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="!^NASIONAL",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^NASIONAL",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^NASIONAL" user-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",INDOSIAR
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|User-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:0 tvg-id="ext" group-title="!^NASIONAL",INDOSIAR 1
@@ -6148,10 +5540,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTINF:0 tvg-id="ext" group-title="!^NASIONAL " user-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",TRANS 7 FMX
 https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd|User-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 
-#EXTINF:0 tvg-id="avi" group-title="!^NASIONAL EPG",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^NASIONAL EPG",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^NASIONAL EPG" user-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",INDOSIAR
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd|User-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:0 tvg-id="ext" group-title="!^NASIONAL EPG" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" referer="https://www.visionplus.id/",MNCTV
@@ -6215,10 +5603,6 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="!^NASIONAL EPG",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="!^KIDS",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^KIDS",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^KIDS" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" referer="https://visionplus.id",KIDS TV V+
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd|Referer=https://visionplus.id
 #EXTINF:0 tvg-id="ext" group-title="!^KIDS" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/",MYKIDZ DENS
@@ -6298,10 +5682,6 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="!^KIDS",PINGFONG TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="!^KNOWLEDGE",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^KNOWLEDGE",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="HGTV.nz" group-title="!^KNOWLEDGE" user-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",HGTV
 https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd|User-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="!^KNOWLEDGE" user-agent="ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",ANIMAL PLANET
@@ -6363,10 +5743,6 @@ https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/discovery%2
 #EXTINF:0 tvg-id="ext" group-title="!^KNOWLEDGE" user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" referer="http://dens.tv",WEDOTV BIG STORIES
 https://op-group1-swiftservehd-1.dens.tv/h/h69/wedotv_big_stories.m3u8|Referer=http://dens.tv
 
-#EXTINF:0 tvg-id="avi" group-title="!^ENTERTAINMENT",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^ENTERTAINMENT",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^ENTERTAINMENT" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" referer="https://visionplus.id",ROCK ENTERTAINMENT V+
 https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd|Referer=https://visionplus.id
 #EXTINF:0 tvg-id="ext" group-title="!^ENTERTAINMENT" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",ROCK ACTION DENS
@@ -6470,10 +5846,6 @@ https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/e!.m3u8
 #EXTINF:0 tvg-id="ext" group-title="!^ENTERTAINMENT" user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" referer="http://dens.tv",CREMA TV
 https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8|Referer=http://dens.tv
 
-#EXTINF:0 tvg-id="avi" group-title="!^MUSIC",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^MUSIC",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^MUSIC" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" referer="https://www.visionplus.id/",MUSIC TV V+
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd|Referer=https://www.visionplus.id/
 #EXTINF:0 tvg-id="ext" group-title="!^MUSIC",BAHANA RADIO MUSIC
@@ -6521,10 +5893,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h250/02.m3u8|Referer=http://dens.tv
 #EXTINF:0 tvg-id="QwestTV.de" group-title="!^MUSIC" user-agent="DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1" referer="http://dens.tv",QWEST TV
 https://op-group1-swiftservehd-1.dens.tv/h/h153/index2.m3u8?app_type=web&userid=wnctpm5uf2j&chname=Qwest_TV|Referer=http://dens.tv
 
-#EXTINF:0 tvg-id="avi" group-title="!^SPORTS",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^SPORTS",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^SPORTS",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:0 tvg-id="ADSports1.net" group-title="!^SPORTS",ABU DHABI SPORTS 1
@@ -6824,10 +6192,6 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="!^SPORTS",SONY TEN 5 HD
 http://app.hughag.store/api/d74ec2f219/playlist.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="!^LIGA EROPA",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^LIGA EROPA",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^LIGA EROPA",EPL 1 HUB PREMIER
 http://mag.redmytv.com/bO3trtivgYaMDwr/l4ptb6R31K/1289436
 #EXTINF:0 tvg-id="ext" group-title="!^LIGA EROPA",EPL 2 SUPER SPORTS
@@ -6881,10 +6245,6 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/
 #EXTINF:0 tvg-id="ext" group-title="!^LIGA EROPA",LIGA CHAMPIONS 7 TNT
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:0 tvg-id="avi" group-title="!^HBO",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^HBO",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^HBO" user-agent="Player (Linux; Android 12)",HBO HD IP
 http://103.179.182.117:6768/hls/27/27.m3u8|User-agent=Player (Linux; Android 12)
 #EXTINF:0 tvg-id="ext" group-title="!^HBO" user-agent="Player (Linux; Android 12)",HBO HITS HD IP
@@ -6922,10 +6282,6 @@ https://cdnjkt913.transvision.co.id:1004/live/master/4/4028c6856c3db2cc016cdbfc4
 #EXTINF:0 tvg-id="WarnerTV.pl" group-title="!^HBO" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" referer="https://www.cubmu.com/",WARNER TV
 https://cdnjkt913.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd|Referer=https://www.cubmu.com/
 
-#EXTINF:0 tvg-id="avi" group-title="!^FILM",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^FILM",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^FILM" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" referer="https://visionplus.id",IMC V+
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd|Referer=https://visionplus.id
 #EXTINF:0 tvg-id="ext" group-title="!^FILM",IMC INDI
@@ -7023,10 +6379,6 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:0 tvg-id="RomedyNow.in" group-title="!^FILM",ROMEDY NOW
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#EXTINF:0 tvg-id="avi" group-title="!^NEWS",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^NEWS",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="MSNBCHD.us" group-title="!^NEWS",MSNBC HD
 https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/MSNBCHD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="!^NEWS",TASTYTRADE
@@ -7034,10 +6386,6 @@ https://bcovlive-a.akamaihd.net/r77df0dffb8c44094b029f1f924124818/us-west-2/us-w
 #EXTINF:0 tvg-id="ext" group-title="!^NEWS",YAHOO! FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="!^DENS TV",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^DENS TV",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^DENS TV",RCTI
 https://raw.githubusercontent.com/konanda-sg/thuran9/refs/heads/main/rcti.m3u8
 #EXTINF:0 tvg-id="ext" group-title="!^DENS TV" referer="https://www.visionplustv.id/",MNCTV
@@ -7195,10 +6543,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&userid=wnc
 #EXTINF:0 tvg-id="ext" group-title="!^DENS TV" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" referer="http://www.dens.tv/",SUNNAH NABAWI TV
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=Sunna_TV|Referer=http://www.dens.tv/
 
-#EXTINF:0 tvg-id="avi" group-title="!^TRANSVISION",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^TRANSVISION",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^TRANSVISION" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",TRANS TV
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:0 tvg-id="ext" group-title="!^TRANSVISION" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",TRANS 7
@@ -7398,10 +6742,6 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90
 #EXTINF:0 tvg-id="ext" group-title="!^TRANSVISION" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",SUPERYATCH TV
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 
-#EXTINF:0 tvg-id="avi" group-title="!^VISION+",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^VISION+",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
 #EXTINF:0 tvg-id="ext" group-title="!^VISION+",RCTI HD
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 #EXTINF:0 tvg-id="ext" group-title="!^VISION+",MNC TV
@@ -7607,12 +6947,6 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/ind
 #EXTINF:0 tvg-id="ext" group-title="!^VISION+",REFORMED 21
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/623c771560e443f2920ea5be99016b7e/index.mpd
 
-#EXTINF:0 tvg-id="avi" group-title="!^INDIHOME TV",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
-#EXTINF:0 tvg-id="avi" group-title="!^INDIHOME TV",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
-#EXTINF:0 tvg-id="ext" group-title="!^INDIHOME TV",AL QURAN AL KAREEM
-https://cdn10jtedge.indihometv.com/atm/DASH/alquran/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="!^INDIHOME TV",INDOSIAR
 https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="!^INDIHOME TV",ANTV
