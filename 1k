@@ -2060,14 +2060,83 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chu
 <============================ Sports ========================>
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="@Sports", CHAMPIONS TV 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 1
 http://203.77.246.14:8001/udp/239.1.2.240:5000
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="@Sports", CHAMPIONS TV 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 2
 http://203.77.246.14:8001/udp/239.1.2.242:5000
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123" group-title="@Sports", CHAMPIONS TV 3
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png/revision/latest?cb=20210331063123" group-title="CHAMP-VID", CHAMPIONS TV 3
 http://203.77.246.14:8001/udp/239.1.2.252:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 241
+http://203.77.246.14:8001/udp/239.1.2.241:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 243
+http://203.77.246.14:8001/udp/239.1.2.243:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 244
+http://203.77.246.14:8001/udp/239.1.2.244:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 245
+http://203.77.246.14:8001/udp/239.1.2.245:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 246
+http://203.77.246.14:8001/udp/239.1.2.246:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 247
+http://203.77.246.14:8001/udp/239.1.2.247:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 248
+http://203.77.246.14:8001/udp/239.1.2.248:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 249
+http://203.77.246.14:8001/udp/239.1.2.249:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iv7eynZ.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 250
+http://203.77.246.14:8001/udp/239.1.2.250:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 251
+http://203.77.246.14:8001/udp/239.1.2.251:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 253
+http://203.77.246.14:8001/udp/239.1.2.253:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 254
+http://203.77.246.14:8001/udp/239.1.2.254:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 255
+http://203.77.246.14:8001/udp/239.1.2.255:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 256
+http://203.77.246.14:8001/udp/239.1.2.256:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 257
+http://203.77.246.14:8001/udp/239.1.2.257:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 258
+http://203.77.246.14:8001/udp/239.1.2.258:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 259
+http://203.77.246.14:8001/udp/239.1.2.259:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 260
+http://203.77.246.14:8001/udp/239.1.2.260:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 261
+http://203.77.246.14:8001/udp/239.1.2.261:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 262
+http://203.77.246.14:8001/udp/239.1.2.262:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 263
+http://203.77.246.14:8001/udp/239.1.2.263:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 264
+http://203.77.246.14:8001/udp/239.1.2.264:5000
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/VjqWu61.jpeg" group-title="CHAMP-VID", CHAMPIONS TV 265
+http://203.77.246.14:8001/udp/239.1.2.265:5000
 
 
 ##EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="@Sports",SpoTV
@@ -17662,6 +17731,7 @@ http://xtvplayer.top:8080/317905448/63617478/353867
 http://xtvplayer.top:8080/317905448/63617478/353868
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/802c45fdf3f60818630503f4e8d58246.png" group-title="@$South Africa",ZA: CANAL+ Sport 360
 http://xtvplayer.top:8080/317905448/63617478/353869
+
 
 
 
