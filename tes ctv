@@ -1,0 +1,14 @@
+SWEET 1 worst.workers.dev
+SEPRAI 1 workers.dev
+BITTER 1 deno.dev
+
+SWEET 2 workers.dev
+SEPRAI 2 worst.workers.dev
+BITTER 2 deno.workers.dev
+
+SWEET 3 worst.dev
+SEPRAI 3 worst.dev
+BITTER 3 deno.worst.workers.dev
+
+BITTER 4 workers.dev
+BITTER 5 worst.dev
