@@ -139,6 +139,9 @@ http://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6317&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6317&type=dash
 
 
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [SEPRAI | VIDIOSPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SEPRAI | VIDIOSPORTS",CAMPIONE TV 1🟩
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -306,6 +309,8 @@ https://seprai.jasoncreak8.workers.dev/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
 https://seprai.jasoncreak8.workers.dev/play.mpd?id=6317&type=dash
 
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [BITTER | VIDIOSPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/E9IUAVIcbqtTmFnhWzdOA9MLw5E=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="BITTER | VIDIOSPORTS", Champions TV 1 🟨
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -410,6 +415,322 @@ https://bitter-boa-67.deno.dev/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6317&type=drm
 https://bitter-boa-67.deno.dev/play.mpd?id=6317&type=dash
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [SWEET2 | VIDIOSPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://get.perfecttv.net/logo/champions1.png" group-title="SWEET2 | VIDIOSPORTS",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.workers.dev/play?id=6685&type=drm
+https://sweet-night-1d1d.workers.dev/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="SWEET2 | VIDIOSPORTS",Champions TV 1A
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+https://sweet-night-1d1d.workers.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://get.perfecttv.net/logo/champions2.png" group-title="SWEET2 | VIDIOSPORTS",Champions TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.workers.dev/play?id=6686&type=drm
+https://sweet-night-1d1d.workers.dev/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="SWEET2 | VIDIOSPORTS",Champions TV 2A
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
+https://sweet-night-1d1d.workers.dev/play.mpd?id=17939&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://get.perfecttv.net/logo/champions3.png" group-title="SWEET2 | VIDIOSPORTS",Champions TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.workers.dev/play?id=6786&type=drm
+https://sweet-night-1d1d.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://get.perfecttv.net/logo/champions5.png" group-title="SWEET2 | VIDIOSPORTS",Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.workers.dev/play?id=9182&type=drm
+https://sweet-night-1d1d.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://get.perfecttv.net/logo/champions6.png" group-title="SWEET2 | VIDIOSPORTS",Champions TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.workers.dev/play?id=9183&type=drm
+https://sweet-night-1d1d.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SWEET2 | VIDIOSPORTS",CAMPIONE TV 1🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
+https://sweet-night-1d1d.workers.dev/play.mpd?id=6685&type=dash
+
+
+#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="SWEET2 | VIDIOSPORTS",Premier League 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e81ff40bc3176175b4be24a09b4701:d9ea434e89f07b3b999407110795f7ca
+https://sweet-night-1d1d.workers.dev/play.mpd?id=9353&type=dash
+
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="SWEET2 | VIDIOSPORTS",Spotv 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+https://sweet-night-1d1d.workers.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="SWEET2 | VIDIOSPORTS",Spotv 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+http://sweet-night-1d1d.workers.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="SWEET2 | VIDIOSPORTS",Spotv 2 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+https://sweet-night-1d1d.workers.dev/play.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="SWEET2 | VIDIOSPORTS",Spotv 2 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+http://sweet-night-1d1d.workers.dev/play.mpd?id=17140&type=dash
+
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="SWEET2 | VIDIOSPORTS",Bein Sports 1 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+http://sweet-night-1d1d.workers.dev/play.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="SWEET2 | VIDIOSPORTS",Bein Sports 1 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+https://sweet-night-1d1d.workers.dev/play.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SWEET2 | VIDIOSPORTS",Bein Sports 2 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
+http://sweet-night-1d1d.workers.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SWEET2 | VIDIOSPORTS",Bein Sports 2 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
+https://sweet-night-1d1d.workers.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SWEET2 | VIDIOSPORTS",Bein Sports 3 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+http://sweet-night-1d1d.workers.dev/play.mpd?id=6317&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SWEET2 | VIDIOSPORTS",Bein Sports 3 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+https://sweet-night-1d1d.workers.dev/play.mpd?id=6317&type=dash
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [SEPRAI2 | VIDIOSPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SEPRAI2 | VIDIOSPORTS",CAMPIONE TV 1🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="SEPRAI2 | VIDIOSPORTS",Premier League 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e81ff40bc3176175b4be24a09b4701:d9ea434e89f07b3b999407110795f7ca
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=9353&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI2 | VIDIOSPORTS",CHAMPIONS TV 1🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=6685&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI2 | VIDIOSPORTS",CHAMPIONS TV 1A🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=17938&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI2 | VIDIOSPORTS",CHAMPIONS TV 2🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=6686&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI2 | VIDIOSPORTS",CHAMPIONS TV 2B🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=17939&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI2 | VIDIOSPORTS",CHAMPIONS TV 3🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI2 | VIDIOSPORTS",CHAMPIONS TV 4🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=6785&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI2 | VIDIOSPORTS",CHAMPIONS TV 4A🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=6787&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI2 | VIDIOSPORTS",CHAMPIONS TV 5🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI2 | VIDIOSPORTS",CHAMPIONS TV 6🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="SEPRAI2 | VIDIOSPORTS",Spotv 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="SEPRAI2 | VIDIOSPORTS",Spotv 2 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="SEPRAI2 | VIDIOSPORTS",Bein Sports 1 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SEPRAI2 | VIDIOSPORTS",Bein Sports 2 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SEPRAI2 | VIDIOSPORTS",Bein Sports 3 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+https://seprai.jasoncreak8.worst.workers.dev/play.mpd?id=6317&type=dash
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [BITTER2 | VIDIOSPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 
 #EXTM3U
@@ -518,6 +839,325 @@ https://bitter-boa-67.deno.workers.dev/play.mpd?id=17875&type=dash
 https://bitter-boa-67.deno.workers.dev/play.mpd?id=6317&type=dash
 
 
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [SWEET3 | VIDIOSPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+ 
+ #EXTM3U
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://get.perfecttv.net/logo/champions1.png" group-title="SWEET3 | VIDIOSPORTS",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.dev/play?id=6685&type=drm
+https://sweet-night-1d1d.worst.dev/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="SWEET3 | VIDIOSPORTS",Champions TV 1A
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+https://sweet-night-1d1d.worst.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://get.perfecttv.net/logo/champions2.png" group-title="SWEET3 | VIDIOSPORTS",Champions TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.dev/play?id=6686&type=drm
+https://sweet-night-1d1d.worst.dev/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="SWEET3 | VIDIOSPORTS",Champions TV 2A
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
+https://sweet-night-1d1d.worst.dev/play.mpd?id=17939&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://get.perfecttv.net/logo/champions3.png" group-title="SWEET3 | VIDIOSPORTS",Champions TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.dev/play?id=6786&type=drm
+https://sweet-night-1d1d.worst.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://get.perfecttv.net/logo/champions5.png" group-title="SWEET3 | VIDIOSPORTS",Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.dev/play?id=9182&type=drm
+https://sweet-night-1d1d.worst.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://get.perfecttv.net/logo/champions6.png" group-title="SWEET3 | VIDIOSPORTS",Champions TV 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.dev/play?id=9183&type=drm
+https://sweet-night-1d1d.worst.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SWEET3 | VIDIOSPORTS",CAMPIONE TV 1🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
+https://sweet-night-1d1d.worst.dev/play.mpd?id=6685&type=dash
+
+
+#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="SWEET3 | VIDIOSPORTS",Premier League 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e81ff40bc3176175b4be24a09b4701:d9ea434e89f07b3b999407110795f7ca
+https://sweet-night-1d1d.worst.dev/play.mpd?id=9353&type=dash
+
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="SWEET3 | VIDIOSPORTS",Spotv 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+https://sweet-night-1d1d.worst.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="SWEET3 | VIDIOSPORTS",Spotv 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+http://sweet-night-1d1d.worst.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="SWEET3 | VIDIOSPORTS",Spotv 2 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+https://sweet-night-1d1d.worst.dev/play.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="SWEET3 | VIDIOSPORTS",Spotv 2 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+http://sweet-night-1d1d.worst.dev/play.mpd?id=17140&type=dash
+
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="SWEET3 | VIDIOSPORTS",Bein Sports 1 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+http://sweet-night-1d1d.worst.dev/play.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="SWEET3 | VIDIOSPORTS",Bein Sports 1 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+https://sweet-night-1d1d.worst.dev/play.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SWEET3 | VIDIOSPORTS",Bein Sports 2 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
+http://sweet-night-1d1d.worst.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SWEET3 | VIDIOSPORTS",Bein Sports 2 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
+https://sweet-night-1d1d.worst.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SWEET3 | VIDIOSPORTS",Bein Sports 3 🟥
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+http://sweet-night-1d1d.worst.dev/play.mpd?id=6317&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SWEET3 | VIDIOSPORTS",Bein Sports 3 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+https://sweet-night-1d1d.worst.dev/play.mpd?id=6317&type=dash
+
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [SEPRAI3 | VIDIOSPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="SEPRAI3 | VIDIOSPORTS",CAMPIONE TV 1🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="SEPRAI3 | VIDIOSPORTS",Premier League 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e81ff40bc3176175b4be24a09b4701:d9ea434e89f07b3b999407110795f7ca
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=9353&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI3 | VIDIOSPORTS",CHAMPIONS TV 1🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=6685&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI3 | VIDIOSPORTS",CHAMPIONS TV 1A🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=17938&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI3 | VIDIOSPORTS",CHAMPIONS TV 2🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=6686&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI3 | VIDIOSPORTS",CHAMPIONS TV 2B🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=17939&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI3 | VIDIOSPORTS",CHAMPIONS TV 3🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=6786&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI3 | VIDIOSPORTS",CHAMPIONS TV 4🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=6785&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI3 | VIDIOSPORTS",CHAMPIONS TV 4A🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=6787&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI3 | VIDIOSPORTS",CHAMPIONS TV 5🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=9182&type=dash
+
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://file.garden/aN9J-XbDsxz3RbSu/sports/champions1.jpg?raw=true" group-title="SEPRAI3 | VIDIOSPORTS",CHAMPIONS TV 6🟩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="SEPRAI3 | VIDIOSPORTS",Spotv 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="SEPRAI3 | VIDIOSPORTS",Spotv 2 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-1-60c673.jpg" group-title="SEPRAI3 | VIDIOSPORTS",Bein Sports 1 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92964e74bebce041660fb124b8976680:b90847044266ac963f96654336370090
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SEPRAI3 | VIDIOSPORTS",Bein Sports 2 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d8181bca994eaa57329e04c98122868:da9b3e7a19a1430b19047792fc6add67
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/bein-2-e66e44.jpg" group-title="SEPRAI3 | VIDIOSPORTS",Bein Sports 3 🟩
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+https://seprai.jasoncreak8.worst.dev/play.mpd?id=6317&type=dash
+
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [BITTER3 | VIDIOSPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/E9IUAVIcbqtTmFnhWzdOA9MLw5E=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="BITTER3 | VIDIOSPORTS", Champions TV 1 🟨
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -623,3 +1263,218 @@ https://bitter-boa-67.deno.worst.workers.dev/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.worst.workers.dev/play?id=6317&type=drm
 https://bitter-boa-67.deno.worst.workers.dev/play.mpd?id=6317&type=dash
 
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [BITTER4 | VIDIOSPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/E9IUAVIcbqtTmFnhWzdOA9MLw5E=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="BITTER4 | VIDIOSPORTS", Champions TV 1 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.workers.dev/play?id=6685&type=drm
+https://bitter-boa-67.workers.dev/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/E9IUAVIcbqtTmFnhWzdOA9MLw5E=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="BITTER4 | VIDIOSPORTS", Champions TV 1A 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.workers.dev/play?id=17938&type=drm
+https://bitter-boa-67.workers.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/57am7QmrfqIjFvGdg9jikDKOtKI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="BITTER4 | VIDIOSPORTS", Champions TV 2 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.workers.dev/play?id=6686&type=drm
+https://bitter-boa-67.workers.dev/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/57am7QmrfqIjFvGdg9jikDKOtKI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="BITTER4 | VIDIOSPORTS", Champions TV 2A 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.workers.dev/play?id=17939&type=drm
+https://bitter-boa-67.workers.dev/play.mpd?id=17939&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/iJMuLDOoWxwxsc7BMjwtBrEowqg=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="BITTER4 | VIDIOSPORTS", Champions TV 3 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.workers.dev/play?id=6786&type=drm
+https://bitter-boa-67.workers.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/ADccuVLRN9T0yU12s2oZ9BWg91w=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="BITTER4 | VIDIOSPORTS", Champions TV 5 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.workers.dev/play?id=9182&type=drm
+https://bitter-boa-67.workers.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/n37MZbQ9O0LKIvHF5ufqGTpDIUI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="BITTER4 | VIDIOSPORTS", Champions TV 6 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.workers.dev/play?id=9183&type=drm
+https://bitter-boa-67.workers.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="BITTER4 | VIDIOSPORTS",CAMPIONE TV 1 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
+https://bitter-boa-67.workers.dev/play.mpd?id=6685&type=dash
+
+
+#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="BITTER4 | VIDIOSPORTS",Premier League  🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e81ff40bc3176175b4be24a09b4701:d9ea434e89f07b3b999407110795f7ca
+https://bitter-boa-67.workers.dev/play.mpd?id=9353&type=dash
+
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="BITTER4 | VIDIOSPORTS",Spotv 🟥🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+https://bitter-boa-67.workers.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="BITTER4 | VIDIOSPORTS",Spotv 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+https://bitter-boa-67.workers.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="BITTER4 | VIDIOSPORTS",Spotv 2 🟥🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+https://bitter-boa-67.workers.dev/play.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="BITTER4 | VIDIOSPORTS",Spotv 2 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+https://bitter-boa-67.workers.dev/play.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="BITTER4 | VIDIOSPORTS", Bein Sports 1 HD 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.workers.dev/play?id=17884&type=drm
+https://bitter-boa-67.workers.dev/play.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pWjOZvY5-4QSdiRSVUcP09NS8qU=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg" group-title="BITTER4 | VIDIOSPORTS", Bein Sports 2 HD 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.workers.dev/play?id=17875&type=drm
+https://bitter-boa-67.workers.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="BITTER4 | VIDIOSPORTS", Bein Sports 3 HD 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.workers.dev/play?id=6317&type=drm
+https://bitter-boa-67.workers.dev/play.mpd?id=6317&type=dash
+
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [BITTER5 | VIDIOSPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/E9IUAVIcbqtTmFnhWzdOA9MLw5E=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="BITTER5 | VIDIOSPORTS", Champions TV 1 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.worst.dev/play?id=6685&type=drm
+https://bitter-boa-67.worst.dev/play.mpd?id=6685&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/E9IUAVIcbqtTmFnhWzdOA9MLw5E=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="BITTER5 | VIDIOSPORTS", Champions TV 1A 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.worst.dev/play?id=17938&type=drm
+https://bitter-boa-67.worst.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/57am7QmrfqIjFvGdg9jikDKOtKI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="BITTER5 | VIDIOSPORTS", Champions TV 2 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.worst.dev/play?id=6686&type=drm
+https://bitter-boa-67.worst.dev/play.mpd?id=6686&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/57am7QmrfqIjFvGdg9jikDKOtKI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="BITTER5 | VIDIOSPORTS", Champions TV 2A 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.worst.dev/play?id=17939&type=drm
+https://bitter-boa-67.worst.dev/play.mpd?id=17939&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/iJMuLDOoWxwxsc7BMjwtBrEowqg=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="BITTER5 | VIDIOSPORTS", Champions TV 3 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.worst.dev/play?id=6786&type=drm
+https://bitter-boa-67.worst.dev/play.mpd?id=6786&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/ADccuVLRN9T0yU12s2oZ9BWg91w=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="BITTER5 | VIDIOSPORTS", Champions TV 5 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.worst.dev/play?id=9182&type=drm
+https://bitter-boa-67.worst.dev/play.mpd?id=9182&type=dash
+
+#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/n37MZbQ9O0LKIvHF5ufqGTpDIUI=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="BITTER5 | VIDIOSPORTS", Champions TV 6 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.worst.dev/play?id=9183&type=drm
+https://bitter-boa-67.worst.dev/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/champion.png" group-title="BITTER5 | VIDIOSPORTS",CAMPIONE TV 1 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
+https://bitter-boa-67.worst.dev/play.mpd?id=6685&type=dash
+
+
+#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="BITTER5 | VIDIOSPORTS",Premier League  🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e81ff40bc3176175b4be24a09b4701:d9ea434e89f07b3b999407110795f7ca
+https://bitter-boa-67.worst.dev/play.mpd?id=9353&type=dash
+
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="BITTER5 | VIDIOSPORTS",Spotv 🟥🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+https://bitter-boa-67.worst.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="Spotv" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-1-9fe953.jpg" group-title="BITTER5 | VIDIOSPORTS",Spotv 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+https://bitter-boa-67.worst.dev/play.mpd?id=17139&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="BITTER5 | VIDIOSPORTS",Spotv 2 🟥🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+https://bitter-boa-67.worst.dev/play.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-id="Spotv 2" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/spotv-2-98d406.jpg" group-title="BITTER5 | VIDIOSPORTS",Spotv 2 🟨
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+https://bitter-boa-67.worst.dev/play.mpd?id=17140&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="BITTER5 | VIDIOSPORTS", Bein Sports 1 HD 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.worst.dev/play?id=17884&type=drm
+https://bitter-boa-67.worst.dev/play.mpd?id=17884&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pWjOZvY5-4QSdiRSVUcP09NS8qU=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-e66e44.jpg" group-title="BITTER5 | VIDIOSPORTS", Bein Sports 2 HD 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.worst.dev/play?id=17875&type=drm
+https://bitter-boa-67.worst.dev/play.mpd?id=17875&type=dash
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="BITTER5 | VIDIOSPORTS", Bein Sports 3 HD 🟨
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.worst.dev/play?id=6317&type=drm
+https://bitter-boa-67.worst.dev/play.mpd?id=6317&type=dash
