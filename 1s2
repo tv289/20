@@ -9549,3 +9549,34 @@ http://dream4ktv.net:80/play/live.php?mac=00:1A:79:D2:2D:A8&stream=264397&extens
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:73:16:62&stream=554973&extension=m3u8
 #EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB PL 2B
 http://ledir.thund.re:80/play/live.php?mac=00:1A:79:C5:51:C4&stream=554973&extension=m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 45
+http://b1g.uk:80/200/230/625445
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 46
+http://b1g.uk:80/200/230/625446
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 47
+http://b1g.uk:80/200/230/625447
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 48
+http://b1g.uk:80/200/230/625448
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 50
+http://b1g.uk:80/200/230/625450
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 51
+http://b1g.uk:80/200/230/625451
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 52
+http://b1g.uk:80/200/230/625452
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 53
+http://b1g.uk:80/200/230/625453
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 54
+http://b1g.uk:80/200/230/625454
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 55
+http://b1g.uk:80/200/230/625455
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 20
+http://b1g.uk:80/200/230/625520
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 21
+http://b1g.uk:80/200/230/625521
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 22
+http://b1g.uk:80/200/230/625522
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 24
+http://b1g.uk:80/200/230/625524
+#EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 25
+http://b1g.uk:80/200/230/625525
