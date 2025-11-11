@@ -1,37 +1,23 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="" group-title="EPL-AST-LG",ASTRO PL 1 ⁴ᴷ
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/astro/AS-PL1-4K
-#EXTINF:-1 tvg-logo="" group-title="EPL-AST-LG",ASTRO PL 1 ᶠᴴᴰ
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/astro/AS-PL1-FHD
-#EXTINF:-1 tvg-logo="" group-title="EPL-AST-LG",ASTRO PL 2 ⁴ᴷ
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/astro/AS-PL2-4K
-#EXTINF:-1 tvg-logo="" group-title="EPL-AST-LG",ASTRO PL 2 ᶠᴴᴰ
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/astro/AS-PL2-FHD
-#EXTINF:-1 tvg-logo="" group-title="EPL-AST-LG",ASTRO FOOTBALL ᶠᴴᴰ
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/astro/ASTROFOOTBALLFHD
-#EXTINF:-1 tvg-logo="" group-title="EPL-AST-LG",ASTRO FOOTBALL ᴴᴰ
-https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/astro/ASTROFOOTBALLHD
-#EXTINF:-1 tvg-logo="" group-title="EPL-AST-LG",ASTRO PL-1ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL|ASTRO",ASTRO PL-1ᶠᴴᴰ
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/astro/astro-pl-1-fhd
-#EXTINF:-1 tvg-logo="" group-title="EPL-AST-LG",ASTRO PL-1 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL|ASTRO",ASTRO PL-1 ᶠᴴᴰ
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/astro/astro-pl-1_fhd
-#EXTINF:-1 tvg-logo="" group-title="EPL-AST-LG",ASTRO PL-2ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL|ASTRO",ASTRO PL-2ᶠᴴᴰ
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/astro/astro-pl-2-fhd
-#EXTINF:-1 tvg-logo="" group-title="EPL-AST-LG",ASTRO PL-2 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL|ASTRO",ASTRO PL-2 ᶠᴴᴰ
 https://raw.githubusercontent.com/bezobraszn/bezo/refs/heads/brasz/SPORTS/astro/astro-pl-2_fhd
-
-#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO PL 1 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL|ASTRO",ASTRO PL 1 ᶠᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709262.ts
-#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO PL 2 ᶠᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL|ASTRO",ASTRO PL 2 ᶠᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709260.ts
-#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO PL 1 ⁴ᴷ
+#EXTINF:-1 tvg-logo="" group-title="EPL|ASTRO",ASTRO PL 1 ⁴ᴷ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
-#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO PL 2 ⁴ᴷ
+#EXTINF:-1 tvg-logo="" group-title="EPL|ASTRO",ASTRO PL 2 ⁴ᴷ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709261.ts
-#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO FOOTBALL ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL|ASTRO",ASTRO FOOTBALL ᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709256.ts
-#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO FOOTBALLᶠᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL|ASTRO",ASTRO FOOTBALLᶠᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709257.ts
 
 #EXTINF:-1 tvg-logo=" " group-title="TES|TES", ASTRO FOOTBALL
