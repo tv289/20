@@ -1,4 +1,99 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PL1X ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709260.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PL2X ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709261.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PL 1 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709262.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PL 2 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO CRICKET ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709264.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 65 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709265.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 66 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709266.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 67 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709267.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 68 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709268.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 69 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709269.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 70 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709270.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 55 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709255.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 56 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709256.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 57 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709257.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 58 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709258.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 59 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709259.ts
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="TES EPL",ASTRO PL
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl1.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="TES EPL",ASTRO PL1
+https://events3.liveboxpro.com/event/125.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="TES EPL",ASTRO PL 2
+https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl2.m3u8
+
+#EXTVLCOPT:http-origin=https://vecloud.eu
+#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
+#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="TES EPL",ASTRO PL 2a
+https://events3.liveboxpro.com/event/126.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitaS3Krn7L-SqLPwohXUnvROpEWHg9XdJrAPd6MjP_5kbrJpklv8bToMN1u1nNPonznYYHt5tSDPhQQSRpZRd_qGImBOK0XW_w0HDDlr5yhq8lEb8YooSm58gLoQ8f4O5mz4abDdiV7_5iiobSHlTLhumC4uPqkQqZkiOTX1zZsk64l_xSFxLVMGf-WS0t/s700/ASTRO%20PREMIER%20LEAGUE.png" group-title="TES EPL", ASTRO PREMIER LEAGUE 1-1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
+https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1fhd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXKVyZxI7QgeCL0DSu3Wgt9pC4iJgt0Zwz1p2mgOvrHuAi7pvvRlkSiUTcMnuq3n3kw__NZF6ciYGVdz4APy_BAenh8ijGgpJlkBIfijnej5joCdSeDhmB_k8jY5JQX2TyRPZTx9pWnZR4c-QW7jzDY8oRA6ULJ5evMaPd4tbNp1ROMq_vVG4k-A9bTsS/s700/ASTRO%20PREMIER%20LEAGUE%202.png" group-title="TES EPL", ASTRO PREMIER LEAGUE 2-1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
+https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2fhd
+
+#EXTINF:-1 group-title="TES EPL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYR8AKA9yoPg-vCK1slZXANJAewnEZQAoqC2t0WoWGQ7vtZjGBKA6cHtBYZirUawOEEGWkRuhIBe8KOwV9elN9BQxQdgxNXn4VgyMZBtXFRbpfdgqnKgzTyzyFFMzHs7OGrSHiF29pb6RT3CW6DTibzRQho5rTxDAurX3cYe4BwV0_BZfDnR83Dp0akEtZ/s700/ASTRO%20PREMIER%20LEAGUE.png",ASTRO PREMIER LEAGUE 1A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
+
+#EXTINF:-1 group-title="TES EPL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYR8AKA9yoPg-vCK1slZXANJAewnEZQAoqC2t0WoWGQ7vtZjGBKA6cHtBYZirUawOEEGWkRuhIBe8KOwV9elN9BQxQdgxNXn4VgyMZBtXFRbpfdgqnKgzTyzyFFMzHs7OGrSHiF29pb6RT3CW6DTibzRQho5rTxDAurX3cYe4BwV0_BZfDnR83Dp0akEtZ/s700/ASTRO%20PREMIER%20LEAGUE.png",ASTRO PREMIER LEAGUE 2A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="TES EPL",ASTRO PL 48 ᴴᴰ
+http://tvking.xyz:8080/natashazam/7292722/8548
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="TES EPL",ASTRO PL 49 ᴴᴰ
+http://tvking.xyz:8080/natashazam/7292722/8549
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="TES EPL",ASTRO PL 50 ᴴᴰ
+http://tvking.xyz:8080/natashazam/7292722/8550
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="TES EPL",ASTRO PL ASP1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+https://smt.858.qzz.io/Smart.php?id=go_assp1
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="TES EPL",ASTRO PL ASP2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+https://smt.858.qzz.io/Smart.php?id=go_assp2
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="CH_DY",DAZN 1
 https://bit.ly/DY_DAZN_PT_1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="CH_DY",DAZN 2
@@ -91,77 +186,6 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9182&type=drm
 https://colloriptvpro.my.id/vid0/pidio/play.mpd?id=9182&type=dash
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="TES EPL",Astro Premier League
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl1.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="TES EPL",Astro Premier League1
-https://events3.liveboxpro.com/event/125.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="TES EPL",Astro Premier League 2
-https://raw.githubusercontent.com/hnnyo/anyar/refs/heads/main/pl2.m3u8
-
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
-#EXTINF:-1 tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="TES EPL",Astro Premier League 2a
-https://events3.liveboxpro.com/event/126.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitaS3Krn7L-SqLPwohXUnvROpEWHg9XdJrAPd6MjP_5kbrJpklv8bToMN1u1nNPonznYYHt5tSDPhQQSRpZRd_qGImBOK0XW_w0HDDlr5yhq8lEb8YooSm58gLoQ8f4O5mz4abDdiV7_5iiobSHlTLhumC4uPqkQqZkiOTX1zZsk64l_xSFxLVMGf-WS0t/s700/ASTRO%20PREMIER%20LEAGUE.png" group-title="TES EPL", ASTRO PREMIER LEAGUE 1-1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb2dc3cfa3024039ae59b55e6b0b5de5:03d25d6ceb16fc4e007697e9d2124fac
-https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1fhd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXKVyZxI7QgeCL0DSu3Wgt9pC4iJgt0Zwz1p2mgOvrHuAi7pvvRlkSiUTcMnuq3n3kw__NZF6ciYGVdz4APy_BAenh8ijGgpJlkBIfijnej5joCdSeDhmB_k8jY5JQX2TyRPZTx9pWnZR4c-QW7jzDY8oRA6ULJ5evMaPd4tbNp1ROMq_vVG4k-A9bTsS/s700/ASTRO%20PREMIER%20LEAGUE%202.png" group-title="TES EPL", ASTRO PREMIER LEAGUE 2-1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=537a246e0284449a862dfd4dc43b7c79:f3829c61a21ceae05ee5d5260679c210
-https://get.perfecttv.net/rwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl2fhd
-
-#EXTINF:-1 group-title="TES EPL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYR8AKA9yoPg-vCK1slZXANJAewnEZQAoqC2t0WoWGQ7vtZjGBKA6cHtBYZirUawOEEGWkRuhIBe8KOwV9elN9BQxQdgxNXn4VgyMZBtXFRbpfdgqnKgzTyzyFFMzHs7OGrSHiF29pb6RT3CW6DTibzRQho5rTxDAurX3cYe4BwV0_BZfDnR83Dp0akEtZ/s700/ASTRO%20PREMIER%20LEAGUE.png",ASTRO PREMIER LEAGUE 1A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-
-#EXTINF:-1 group-title="TES EPL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYR8AKA9yoPg-vCK1slZXANJAewnEZQAoqC2t0WoWGQ7vtZjGBKA6cHtBYZirUawOEEGWkRuhIBe8KOwV9elN9BQxQdgxNXn4VgyMZBtXFRbpfdgqnKgzTyzyFFMzHs7OGrSHiF29pb6RT3CW6DTibzRQho5rTxDAurX3cYe4BwV0_BZfDnR83Dp0akEtZ/s700/ASTRO%20PREMIER%20LEAGUE.png",ASTRO PREMIER LEAGUE 2A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PREMIER LEAGUE 61 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709261.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PREMIER LEAGUE 62 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709262.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PREMIER LEAGUE 63 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PREMIER LEAGUE 64 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709264.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="TES EPL",ASTRO PREMIER LEAGUE 48 ᴴᴰ
-http://tvking.xyz:8080/natashazam/7292722/8548
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="TES EPL",ASTRO PREMIER LEAGUE 49 ᴴᴰ
-http://tvking.xyz:8080/natashazam/7292722/8549
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="TES EPL",ASTRO PREMIER LEAGUE 59 ᴴᴰ
-http://tvking.xyz:8080/natashazam/7292722/8550
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="TES EPL",ASTRO PREMIER LEAGUE ASP1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-https://smt.858.qzz.io/Smart.php?id=go_assp1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="TES EPL",ASTRO PREMIER LEAGUE ASP2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-https://smt.858.qzz.io/Smart.php?id=go_assp2
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgofRMXYA-3dc3fNg7OKCfuposx1mdDx-GrTn3DeJ9HMIrRyJfL4o-diHV4nMN7kmaNeUi4r-2xPC1ZQYc4-SyG24QvAHxBkqACgDxFqLBOL1tRZMLAQcAa9BxzYNTJhgsuBRBTquxuqyCHY2DsPgtJF1mC7MuNDamj88_5x1d-qxdssTFcPvEs5S4huDdO/s700/TIMNAS.png",TIMNAS DAY 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
