@@ -1,36 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PL1X ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709260.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PL2X ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709261.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PL 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO PL 1 ᶠᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709262.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO PL 2 ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO PL 2 ᶠᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709260.ts
+#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO PL 1 ⁴ᴷ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO CRICKET ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709264.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 65 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709265.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 66 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709266.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 67 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709267.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 68 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709268.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 69 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709269.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 70 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709270.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 55 ᴴᴰ
-http://tv.8dott.xyz:80/live/samuel/samuel123456/709255.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 56 ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO PL 2 ⁴ᴷ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709261.ts
+#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO FOOTBALL ᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709256.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 57 ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO FOOTBALLᶠᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709257.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 58 ᴴᴰ
+
+#EXTINF:-1 tvg-logo=" " group-title="TES|TES", ASTRO FOOTBALL
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTFutball.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TES|TES", ASTRO ASTArena2
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTArena2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TES|TES", ASTRO ASTGreand
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTGreand.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TES|TES", ARP2
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/arp2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TES|TES", bEIN2
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/bEIN2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TES|TES", DaZN2
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/DaZN2.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TES|TES", mncdigital
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/mncdigital.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="TES|TES", rctilive
+https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/rctilive.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO GRANSTAND ᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709258.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="TES EPL",ASTRO 59 ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO GRANSTANDᶠᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709259.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO CRICKET ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709264.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO ARENA 2 ᴴᴰ
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709266.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 50
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709250.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 51
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709251.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 52
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709252.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 53
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709253.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 54
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709254.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 55
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709255.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 65
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709265.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 67
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709267.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 68
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709268.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 69
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709269.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 70
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709270.ts
 
 #EXTVLCOPT:http-origin=https://vecloud.eu
 #EXTVLCOPT:http-referrer=https://vecloud.eu/
@@ -7535,7 +7563,7 @@ https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone17,5; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 FireKeepers/1.7.0
 #EXTVLCOPT:http-referrer=https://www.vidembed.re/
 https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTGreand.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="&#11088;|SPORTS CHANNEL",ASTRO PREMIER LEAGUE 1 ᴴᴰ
+#EXTINF:-1 tvg-logo="" group-title="&#11088;|SPORTS CHANNEL",ASTRO PREMIER LEAGUE 1 ᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709263.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="&#11088;|SPORTS CHANNEL",ASTRO PREMIER LEAGUE 2 ᴴᴰ
 http://tvking.xyz:8080/natashazam/7292722/8549
@@ -9586,19 +9614,3 @@ http://b1g.uk:80/200/230/625524
 #EXTINF:-1 tvg-logo=" " group-title="🇮🇩|PAR5",TES HUB 25
 http://b1g.uk:80/200/230/625525
 
-#EXTINF:-1 tvg-logo=" " group-title="TES|TES", ASTRO FOOTBALL
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTFutball.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TES|TES", ASTRO ASTArena2
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTArena2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TES|TES", ASTRO ASTGreand
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/v1/ASTGreand.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TES|TES", ARP2
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/arp2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TES|TES", bEIN2
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/bEIN2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TES|TES", DaZN2
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/DaZN2.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TES|TES", mncdigital
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/mncdigital.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="TES|TES", rctilive
-https://raw.githubusercontent.com/DonzCompIndonesia/donztelevision/refs/heads/main/v1/rctilive.m3u8
