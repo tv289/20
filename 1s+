@@ -37,16 +37,38 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/709259.ts
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709264.ts
 #EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO ARENA 2 ᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709266.ts
-#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 50
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO SPO TV 2ᶠᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709250.ts
-#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 51
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO SPO TVᶠᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709251.ts
-#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 52
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO W SPORTSᶠᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709252.ts
-#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 53
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO MU TV
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709253.ts
-#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 54
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO ARENAᶠᴴᴰ
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709254.ts
+
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 40
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709240.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 41
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709241.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 42
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709242.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 43
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709243.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 44
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709244.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 45
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709245.ts
+#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO 46
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709246.ts
+#EXTINF:-1 tvg-logo="" group-title="EPL-0K",ASTRO 47
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709247.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 48
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709248.ts
+#EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 49
+http://tv.8dott.xyz:80/live/samuel/samuel123456/709249.ts
+
 #EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 55
 http://tv.8dott.xyz:80/live/samuel/samuel123456/709255.ts
 #EXTINF:-1 tvg-logo="" group-title="TES ASTRO",ASTRO 65
